@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 4820648f278e08a48bbd3b7ed9db44a3
+timeCreated: 1456610304
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_0
+    21300002: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_1
+    21300004: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_2
+    21300006: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_3
+    21300008: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_4
+    21300010: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_5
+    21300012: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_6
+    21300014: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_7
+    21300016: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_8
+    21300018: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_9
+    21300020: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_10
+    21300022: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_11
+    21300024: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_12
+    21300026: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_13
+    21300028: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_14
+    21300030: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_15
+    21300032: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_16
+    21300034: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_17
+    21300036: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_18
+    21300038: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_19
+    21300040: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_20
+    21300042: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_21
+    21300044: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_22
+    21300046: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_23
+    21300048: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_24
+    21300050: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_25
+    21300052: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_26
+    21300054: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_27
+    21300056: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_28
+    21300058: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_29
+    21300060: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_30
+    21300062: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_0
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 676
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -30.5}
+        - {x: -33.5, y: -45.5}
+        - {x: 27.5, y: -45.5}
+        - {x: 45.5, y: -35.5}
+        - {x: 45.5, y: 35.5}
+        - {x: 39.5, y: 45.5}
+        - {x: -25.5, y: 45.5}
+        - {x: -45.5, y: 25.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 676
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 43.5}
+        - {x: 29.5, y: 45.5}
+        - {x: -36.5, y: 45.5}
+        - {x: -45.5, y: 35.5}
+        - {x: -45.5, y: -40.5}
+        - {x: -26.5, y: -45.5}
+        - {x: 34.5, y: -45.5}
+        - {x: 44.5, y: -37.5}
+        - {x: 45.5, y: -29.5}
+        - {x: 45.5, y: 36.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_2
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 676
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 45.5}
+        - {x: -45, y: 26.5}
+        - {x: -45, y: -40.5}
+        - {x: -39, y: -45.5}
+        - {x: 41, y: -45.5}
+        - {x: 45, y: -41.5}
+        - {x: 45, y: 33.5}
+        - {x: 40, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 676
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 45.5}
+        - {x: -31.5, y: 43.5}
+        - {x: -42.5, y: 29.5}
+        - {x: -45.5, y: 22.5}
+        - {x: -45.5, y: -30.5}
+        - {x: -35.5, y: -45.5}
+        - {x: 27.5, y: -45.5}
+        - {x: 45.5, y: -36.5}
+        - {x: 45.5, y: 30.5}
+        - {x: 29.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 676
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 45.5}
+        - {x: -45.5, y: 25.5}
+        - {x: -45.5, y: -24.5}
+        - {x: -27.5, y: -45.5}
+        - {x: 21.5, y: -45.5}
+        - {x: 45.5, y: -32.5}
+        - {x: 45.5, y: 33.5}
+        - {x: 22.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 544
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 45}
+        - {x: -43.5, y: 29}
+        - {x: -45.5, y: 23}
+        - {x: -45.5, y: -21}
+        - {x: -43.5, y: -29}
+        - {x: -23.5, y: -45}
+        - {x: 26.5, y: -45}
+        - {x: 45.5, y: -30}
+        - {x: 45.5, y: 37}
+        - {x: 21.5, y: 45}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 544
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 45}
+        - {x: -28.5, y: 44}
+        - {x: -45.5, y: 31}
+        - {x: -45.5, y: -43}
+        - {x: -37.5, y: -45}
+        - {x: 42.5, y: -45}
+        - {x: 45.5, y: -44}
+        - {x: 45.5, y: 45}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 544
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 45}
+        - {x: -45.5, y: 25}
+        - {x: -45.5, y: -27}
+        - {x: -24.5, y: -45}
+        - {x: 39.5, y: -45}
+        - {x: 45.5, y: -27}
+        - {x: 45.5, y: 35}
+        - {x: 28.5, y: 45}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 544
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 45}
+        - {x: -35.5, y: 45}
+        - {x: -45.5, y: 31}
+        - {x: -45.5, y: -25}
+        - {x: -40.5, y: -43}
+        - {x: -28.5, y: -45}
+        - {x: 23.5, y: -45}
+        - {x: 45.5, y: -29}
+        - {x: 45.5, y: 23}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 544
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 45}
+        - {x: -43, y: 35}
+        - {x: -45, y: 22}
+        - {x: -45, y: -34}
+        - {x: -42, y: -45}
+        - {x: 42, y: -45}
+        - {x: 45, y: -38}
+        - {x: 45, y: 31}
+        - {x: 42, y: 45}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 544
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 45}
+        - {x: -45.5, y: 37}
+        - {x: -45.5, y: -40}
+        - {x: -28.5, y: -45}
+        - {x: 31.5, y: -45}
+        - {x: 45.5, y: -32}
+        - {x: 45.5, y: 31}
+        - {x: 36.5, y: 45}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_11
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 544
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 45}
+        - {x: -45.5, y: 39}
+        - {x: -45.5, y: -21}
+        - {x: -31.5, y: -45}
+        - {x: 27.5, y: -45}
+        - {x: 45.5, y: -26}
+        - {x: 45.5, y: 32}
+        - {x: 33.5, y: 45}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_12
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 544
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 45}
+        - {x: -26.5, y: 45}
+        - {x: -45.5, y: 38}
+        - {x: -45.5, y: -37}
+        - {x: -28.5, y: -45}
+        - {x: 35.5, y: -45}
+        - {x: 45.5, y: -32}
+        - {x: 45.5, y: 26}
+        - {x: 42.5, y: 35}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_13
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 544
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 45}
+        - {x: -45.5, y: 39}
+        - {x: -45.5, y: -24}
+        - {x: -36.5, y: -45}
+        - {x: 26.5, y: -45}
+        - {x: 45.5, y: -25}
+        - {x: 45.5, y: 45}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 405
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 45.5}
+        - {x: -45.5, y: 27.5}
+        - {x: -45.5, y: -27.5}
+        - {x: -22.5, y: -45.5}
+        - {x: 39.5, y: -45.5}
+        - {x: 45.5, y: -31.5}
+        - {x: 45.5, y: 39.5}
+        - {x: 39.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 405
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 45.5}
+        - {x: -20.5, y: 45.5}
+        - {x: -45.5, y: 30.5}
+        - {x: -45.5, y: -36.5}
+        - {x: -24.5, y: -45.5}
+        - {x: 32.5, y: -45.5}
+        - {x: 42.5, y: -36.5}
+        - {x: 45.5, y: -25.5}
+        - {x: 45.5, y: 27.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 405
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 47.5}
+        - {x: -23.5, y: 47.5}
+        - {x: -45.5, y: 28.5}
+        - {x: -45.5, y: -30.5}
+        - {x: -22.5, y: -47.5}
+        - {x: 44.5, y: -47.5}
+        - {x: 45.5, y: -43.5}
+        - {x: 45.5, y: 35.5}
+        - {x: 30.5, y: 44.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_17
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 405
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -45.5, y: 44.5}
+        - {x: -45.5, y: -28.5}
+        - {x: -26.5, y: -45.5}
+        - {x: 23.5, y: -45.5}
+        - {x: 43.5, y: -39.5}
+        - {x: 45.5, y: -27.5}
+        - {x: 45.5, y: 36.5}
+        - {x: 40.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_18
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 405
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 45.5}
+        - {x: -45.5, y: 40.5}
+        - {x: -45.5, y: -34.5}
+        - {x: -39.5, y: -45.5}
+        - {x: 44.5, y: -45.5}
+        - {x: 45.5, y: -40.5}
+        - {x: 45.5, y: 44.5}
+        - {x: 36.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_19
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 405
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 45.5}
+        - {x: -45.5, y: 32.5}
+        - {x: -45.5, y: -28.5}
+        - {x: -28.5, y: -41.5}
+        - {x: -16.5, y: -45.5}
+        - {x: 40.5, y: -45.5}
+        - {x: 45.5, y: -30.5}
+        - {x: 45.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_20
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 405
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 45.5}
+        - {x: -45.5, y: -29.5}
+        - {x: -22.5, y: -45.5}
+        - {x: 40.5, y: -45.5}
+        - {x: 45.5, y: -23.5}
+        - {x: 45.5, y: 37.5}
+        - {x: 41.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 273
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 45.5}
+        - {x: -45.5, y: 35.5}
+        - {x: -45.5, y: -38.5}
+        - {x: -38.5, y: -45.5}
+        - {x: 40.5, y: -45.5}
+        - {x: 45.5, y: -33.5}
+        - {x: 45.5, y: 37.5}
+        - {x: 24.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 273
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 45.5}
+        - {x: -45.5, y: 36.5}
+        - {x: -45.5, y: -39.5}
+        - {x: -35.5, y: -45.5}
+        - {x: 25.5, y: -45.5}
+        - {x: 45.5, y: -42.5}
+        - {x: 45.5, y: 27.5}
+        - {x: 27.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 273
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 45.5}
+        - {x: -45, y: 26.5}
+        - {x: -45, y: -40.5}
+        - {x: -39, y: -45.5}
+        - {x: 41, y: -45.5}
+        - {x: 45, y: -41.5}
+        - {x: 45, y: 33.5}
+        - {x: 40, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_24
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 273
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 45.5}
+        - {x: -45.5, y: 38.5}
+        - {x: -45.5, y: -45.5}
+        - {x: 32.5, y: -45.5}
+        - {x: 45.5, y: -25.5}
+        - {x: 45.5, y: 37.5}
+        - {x: 30.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_25
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 273
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 45.5}
+        - {x: -45.5, y: -29.5}
+        - {x: -35.5, y: -45.5}
+        - {x: 35.5, y: -45.5}
+        - {x: 45.5, y: -24.5}
+        - {x: 45.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 141
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 45}
+        - {x: -43, y: 35}
+        - {x: -45, y: 22}
+        - {x: -45, y: -34}
+        - {x: -42, y: -45}
+        - {x: 42, y: -45}
+        - {x: 45, y: -38}
+        - {x: 45, y: 31}
+        - {x: 42, y: 45}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 8
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 45.5}
+        - {x: -25.5, y: 45.5}
+        - {x: -45.5, y: 41.5}
+        - {x: -45.5, y: -45.5}
+        - {x: 43.5, y: -45.5}
+        - {x: 45.5, y: -38.5}
+        - {x: 45.5, y: 21.5}
+        - {x: 42.5, y: 32.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 8
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 45.5}
+        - {x: -33.5, y: 45.5}
+        - {x: -45.5, y: 37.5}
+        - {x: -45.5, y: -20.5}
+        - {x: -28.5, y: -45.5}
+        - {x: 27.5, y: -45.5}
+        - {x: 30.5, y: -44.5}
+        - {x: 45.5, y: -22.5}
+        - {x: 45.5, y: 28.5}
+        - {x: 43.5, y: 37.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_29
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 8
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 45.5}
+        - {x: -35, y: 45.5}
+        - {x: -45, y: 28.5}
+        - {x: -45, y: -38.5}
+        - {x: -34, y: -45.5}
+        - {x: 20, y: -45.5}
+        - {x: 44, y: -31.5}
+        - {x: 45, y: -22.5}
+        - {x: 45, y: 23.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_30
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 8
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 45.5}
+        - {x: -45.5, y: 34.5}
+        - {x: -45.5, y: -31.5}
+        - {x: -38.5, y: -45.5}
+        - {x: 30.5, y: -45.5}
+        - {x: 45.5, y: -29.5}
+        - {x: 45.5, y: 25.5}
+        - {x: 29.5, y: 45.5}
+    - name: dream_world_sprite_like_poke_ball_vectors_by_ldejruff-d5qzltl_31
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 8
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 45.5}
+        - {x: -45.5, y: 24.5}
+        - {x: -45.5, y: -45.5}
+        - {x: 42.5, y: -45.5}
+        - {x: 45.5, y: -39.5}
+        - {x: 45.5, y: 45.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
