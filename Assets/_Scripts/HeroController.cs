@@ -20,6 +20,7 @@ public class HeroController : MonoBehaviour
     public float moveForce;
     public float jumpForce;
     public Transform groundCheck;
+    public Transform camera;
     // PRIVATE  INSTANCE VARIABLES
     private Animator _animator;
     private float _move;
@@ -34,9 +35,8 @@ public class HeroController : MonoBehaviour
     void Start()
     {
         //Initialise Public Variable
-        this.velocityRange = new VelocityRange(300f, 1000f);
-        this.moveForce = 1500f;
-        this.jumpForce = 17000f;
+        this.velocityRange = new VelocityRange(300f, 30000f);
+
 
         //Initialise Private Variable
         this._transform = gameObject.GetComponent<Transform>();
@@ -50,6 +50,8 @@ public class HeroController : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+        Vector3 currentPosition = new Vector3(this._transform.position.x, this._transform.position.y, -10f);
+        this.camera.position = currentPosition;
         this._isGrounded = Physics2D.Linecast(this._transform.position, this.groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
         Debug.DrawLine(this.transform.position, this.groundCheck.position);
 

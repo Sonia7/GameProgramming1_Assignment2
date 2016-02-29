@@ -27,7 +27,7 @@ public class BackgroundController : MonoBehaviour {
         this._currentPosition -= new Vector3( this.speed,0);
         this._transform.position = this._currentPosition;
 
-        if (this._currentPosition.x <= -270)
+        if (this._currentPosition.x <= -232)
         {
             this.Reset();
         }
@@ -35,6 +35,6 @@ public class BackgroundController : MonoBehaviour {
 
     public void Reset()
     {
-        this._transform.position = new Vector3(240f, 0);
+        this._transform.position = new Vector3(232f, 0);
     }// reset the background page to start point
 }
