@@ -21,6 +21,7 @@ public class HeroController : MonoBehaviour
     public float jumpForce;
     public Transform groundCheck;
     public Transform camera;
+    public GameController gameController;
     // PRIVATE  INSTANCE VARIABLES
     private Animator _animator;
     private float _move;
@@ -29,6 +30,10 @@ public class HeroController : MonoBehaviour
     private Transform _transform;
     private Rigidbody2D _rigidBody2D;
     private bool _isGrounded;
+    private AudioSource[] _audioSources;
+    private AudioSource _jumpSound;
+    private AudioSource _coinSound;
+    private AudioSource _hurtSound;
     // Test the awake method
 
     // Use this for initialization
@@ -45,6 +50,15 @@ public class HeroController : MonoBehaviour
         this._move = 0f;
         this._jump = 0f;
         this._facingRight = true;
+
+        // Setup AudioSources
+        this._audioSources = gameObject.GetComponents<AudioSource>();
+        this._jumpSound = this._audioSources[1];
+        this._coinSound = this._audioSources[2];
+        this._hurtSound = this._audioSources[3];
+
+        // place the hero in the starting position
+        this._spawn();
     }
 
     // Update is called once per frame
@@ -103,6 +117,7 @@ public class HeroController : MonoBehaviour
                 // call the "jump" clip
                 if (absVelY < this.velocityRange.maximum)
                 {
+                    this._jumpSound.Play();
                     forceY = this.jumpForce;
                 }
             }
@@ -115,16 +130,23 @@ public class HeroController : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D other)
     {
-       
+        if (other.gameObject.CompareTag("ball"))
+        {
+            this._coinSound.Play();
+            Destroy(other.gameObject);
+           this.gameController.ScoreValue += 10;
+        }
+
+     
+
 
         if (other.gameObject.CompareTag("Death"))
         {
             this._spawn();
-           
-            
+            this._hurtSound.Play();
+           this.gameController.LivesValue--;
         }
     }
-
     // PRIVATE METHODS
     private void _flip()
     {
