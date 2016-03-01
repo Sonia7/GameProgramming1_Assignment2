@@ -146,6 +146,13 @@ public class HeroController : MonoBehaviour
             this._hurtSound.Play();
            this.gameController.LivesValue--;
         }
+
+        if (other.gameObject.CompareTag("Cat"))
+        {
+            this._spawn();
+            this._hurtSound.Play();
+            this.gameController.LivesValue--;
+        }
     }
     // PRIVATE METHODS
     private void _flip()
