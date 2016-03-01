@@ -1,11 +1,16 @@
 ﻿using UnityEngine;
 using System.Collections;
 [System.Serializable]
+
+// VELOCITY RANGE UTILITY Class +++++++++++++++++++++++
 public class VelocityRange
 {
-    public float minimum;
+    public float minimum;// PUBLIC INSTANCE VARIABLES ++++
     public float maximum;
-    public VelocityRange(float minimum, float maximum)//constructor
+    
+    
+	// CONSTRUCTOR ++++++++++++++++++++++++++++++++++++
+    public VelocityRange(float minimum, float maximum)
     {
         this.minimum = minimum;
         this.maximum = maximum;
@@ -72,19 +77,23 @@ public class HeroController : MonoBehaviour
 
         float forceX = 0f;
         float forceY = 0f;
-
+// get absolute value of velocity for our gameObject
         float absVelX = Mathf.Abs(this._rigidBody2D.velocity.x);
         float absVelY = Mathf.Abs(this._rigidBody2D.velocity.y);
 
         //Debug.Log (this._jump);
+        
+		// Ensure the player is grounded before any movement checks
         if (this._isGrounded)
         {
+            // gets a number between -1 to 1 for both Horizontal and Vertical Axes
+        
             this._move = Input.GetAxis("Horizontal");
             this._jump = Input.GetAxis("Vertical");
             if (this._move != 0)
             {
                 if (this._move > 0)
-                {
+                {// movement force
                     if (absVelX < this.velocityRange.maximum)
                     {
                         forceX = this.moveForce;
